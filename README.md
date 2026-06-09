@@ -1,4 +1,4 @@
-> 🥉 3rd Place @ Compiled Transpose Hackathon (judged by YC founders) · 🏆 Best Use of StackAuth
+> 🥉 3rd Place @ Compiled Transpose Hackathon (judged by YC founders) 
 
 # 🌾 Cropbase — A Farm Operations Dashboard
 
