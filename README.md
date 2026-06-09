@@ -1,8 +1,10 @@
-# Introducing Cropbase - A Farm Operations Dashboard
+> 🥉 3rd Place @ Compiled Transpose Hackathon (judged by YC founders) · 🏆 Best Use of StackAuth
+
+# 🌾 Cropbase — A Farm Operations Dashboard
 
 A high-fidelity, responsive web application dashboard that converts farm spreadsheets into a live operational command center.
 
-## Product Overview 
+## Product Overview
 
 **Cropbase** is an Excel-in, ops-out operations layer for farms. It allows farms to continue using spreadsheets while getting a unified operational view, prioritized daily plans, and clear change summaries.
 
